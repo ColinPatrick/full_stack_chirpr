@@ -1,0 +1,15 @@
+#root {
+    background-color: #edffec;
+}
+
+.add-chirp-page {
+    height: 100%;
+}
+
+.my-nav {
+    background-color: #caf7e3;
+}
+
+.chirp-text {
+    color: #1e212d;
+}
